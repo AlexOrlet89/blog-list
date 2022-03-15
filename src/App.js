@@ -7,7 +7,7 @@ function App() {
   return (
     <section className="main">
       <Header />
-      {/* add your main component here */}
+      <Main />
       <Footer />
     </section>
   );
